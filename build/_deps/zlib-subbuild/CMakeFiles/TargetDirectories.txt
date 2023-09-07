@@ -1,0 +1,3 @@
+/Users/denisbondarenko/Library/CloudStorage/OneDrive-ITMOUNIVERSITY/2sem/Prog/lab10/build/_deps/zlib-subbuild/CMakeFiles/zlib-populate.dir
+/Users/denisbondarenko/Library/CloudStorage/OneDrive-ITMOUNIVERSITY/2sem/Prog/lab10/build/_deps/zlib-subbuild/CMakeFiles/edit_cache.dir
+/Users/denisbondarenko/Library/CloudStorage/OneDrive-ITMOUNIVERSITY/2sem/Prog/lab10/build/_deps/zlib-subbuild/CMakeFiles/rebuild_cache.dir
